@@ -1,0 +1,15 @@
+[submodule "Lab8"]
+	path = Lab8
+	url = https://github.com/mondayish/Lab8
+[submodule "Lab7"]
+	path = Lab7
+	url = https://github.com/mondayish/Lab7
+[submodule "Lab6ClientServer"]
+	path = Lab6ClientServer
+	url = https://github.com/mondayish/Lab6ClientServer
+[submodule "ConsoleAppLab5"]
+	path = ConsoleAppLab5
+	url = https://github.com/mondayish/ConsoleAppLab5
+[submodule "Lab3proga"]
+	path = Lab3proga
+	url = https://github.com/mondayish/Lab3proga
